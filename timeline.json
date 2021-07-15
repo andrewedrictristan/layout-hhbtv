@@ -1,0 +1,139 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "should remove the antrag",
+      "uid" : "bee967decbb25f79",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1626338312658,
+        "stop" : 1626338325922,
+        "duration" : 13264
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-91.0.4472.114" ]
+    }, {
+      "name" : "should login to origin Antrag creator",
+      "uid" : "a476a906399bd2aa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1626338302434,
+        "stop" : 1626338312656,
+        "duration" : 10222
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-91.0.4472.114" ]
+    }, {
+      "name" : "Test the edit page from another user",
+      "uid" : "c595663fb92b0b35",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626338298712,
+        "stop" : 1626338302010,
+        "duration" : 3298
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-91.0.4472.114" ]
+    }, {
+      "name" : "Test the add page from another user",
+      "uid" : "725d66fa80d7ff7c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626338302011,
+        "stop" : 1626338302183,
+        "duration" : 172
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-91.0.4472.114" ]
+    }, {
+      "name" : "should logout",
+      "uid" : "26d226bec5eaaf93",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626338292540,
+        "stop" : 1626338294802,
+        "duration" : 2262
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-91.0.4472.114" ]
+    }, {
+      "name" : "Test the details page from another user",
+      "uid" : "f2f08c79ade09466",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626338302183,
+        "stop" : 1626338302434,
+        "duration" : 251
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-91.0.4472.114" ]
+    }, {
+      "name" : "should create a new Antrag Beratungsleistung",
+      "uid" : "83b93d97ebb8347d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626338263405,
+        "stop" : 1626338284556,
+        "duration" : 21151
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-91.0.4472.114" ]
+    }, {
+      "name" : "should copy the url of details Antrag Beratungsleistung",
+      "uid" : "34b79516ac2ab4bd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626338284557,
+        "stop" : 1626338287575,
+        "duration" : 3018
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-91.0.4472.114" ]
+    }, {
+      "name" : "should copy the url of edit Antrag Beratungsleistung",
+      "uid" : "dc22257ab9ea8ab7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626338287575,
+        "stop" : 1626338292540,
+        "duration" : 4965
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-91.0.4472.114" ]
+    }, {
+      "name" : "should login to another user account",
+      "uid" : "95729f09fb0cb2f0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626338294803,
+        "stop" : 1626338298712,
+        "duration" : 3909
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-91.0.4472.114" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ]
+}
